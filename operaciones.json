@@ -1,0 +1,32 @@
+[
+  {
+    "tipo": "suma",
+    "parametros": [
+      3,
+      3
+    ],
+    "resultado": 6,
+    "tiempo": "2022-05-17T02:31:02.251Z",
+    "id": 1
+  },
+  {
+    "tipo": "suma",
+    "parametros": [
+      7,
+      2
+    ],
+    "resultado": 9,
+    "tiempo": "2022-05-17T02:31:02.251Z",
+    "id": 2
+  },
+  {
+    "tiempo": "2022-12-06T01:29:20.261Z",
+    "tipo": "resta",
+    "params": [
+      10,
+      5
+    ],
+    "resultado": 5,
+    "id": 3
+  }
+]
